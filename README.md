@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beomll)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=Beomll)](https://velog.io/@khb6494/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=khb6494)](https://velog.io/@khb6494/posts)
 
