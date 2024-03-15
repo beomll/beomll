@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beomll)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khb6494)](https://solved.ac/khb6494/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beomll)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=khb6494)](https://velog.io/@khb6494/posts)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khb6494)](https://solved.ac/khb6494/)
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
