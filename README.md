@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 [![Github Badge](http://img.shields.io/badge/github-181717?style=flat-square&logo=github&link=https://github.com/Beomll)](https://github.com/Beomll)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khb6494@gmail.com)](mailto:khb6494@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hobeom2001@naver.com)](mailto:hobeom2001@naver.com)
-[![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&link=https://velog.io/@khb6494/posts)](https://velog.io/@khb6494/posts)
+[![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@khb6494/posts)](https://velog.io/@khb6494/posts)
