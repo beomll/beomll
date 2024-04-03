@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=khb6494)](https://velog.io/@khb6494/posts)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khb6494)](https://solved.ac/khb6494/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beomll)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beomll)]
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beomll&show_icons=true&theme=dark)]
 
 
