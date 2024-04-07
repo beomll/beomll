@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 # Study
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=khb6494)](https://velog.io/@khb6494/posts)
 
@@ -60,3 +61,5 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beomll&show_icons=true&theme=dark)
+
+</div>
