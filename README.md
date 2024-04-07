@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+
+# Hello,
+
 # Study
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=khb6494)](https://velog.io/@khb6494/posts)
 
