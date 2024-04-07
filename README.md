@@ -14,14 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Study
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=khb6494)](https://velog.io/@khb6494/posts)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khb6494)](https://solved.ac/khb6494/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beomll&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beomll&show_icons=true&theme=dark)
 
+# Coding
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khb6494)](https://solved.ac/khb6494/)
 
 # 💪Skills
 ### Platforms & Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beomll&layout=compact)
+
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
 ![PyG](https://img.shields.io/badge/pyg-3C2179.svg?&style=for-the-badge&logo=pyg&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
@@ -54,3 +56,7 @@ Here are some ideas to get you started:
 
 #### Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeomll&count_bg=%23FFC2DF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beomll&show_icons=true&theme=dark)
