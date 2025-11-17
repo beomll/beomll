@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hobeom2001@naver.com)](mailto:hobeom2001@naver.com)
 [![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@khb6494/posts)](https://velog.io/@khb6494/posts)
 [![Github Badge](http://img.shields.io/badge/github-181717?style=flat-square&logo=github&link=https://github.com/Beomll)](https://github.com/Beomll)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeomll&count_bg=%23FFC2DF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
