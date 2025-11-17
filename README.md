@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hobeom2001@naver.com)](mailto:hobeom2001@naver.com)
 [![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@khb6494/posts)](https://velog.io/@khb6494/posts)
 [![Github Badge](http://img.shields.io/badge/github-181717?style=flat-square&logo=github&link=https://github.com/Beomll)](https://github.com/Beomll)
-[![Linkedin Badge](http://img.shields.io/badge/github-181717?style=flat-square&logo=linkedin&link=https://linkedin.com/in/hobeomkim)](https://linkedin.com/in/hobeomkim)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&linked=https://linkedin.com/in/hobeomkim)](https://linkedin.com/in/hobeomkim)
 
 </div>
